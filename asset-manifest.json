@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/mdpatankar/ibmdemo.github.io/static/css/main.a9521173.chunk.css",
+    "main.js": "/mdpatankar/ibmdemo.github.io/static/js/main.1000d147.chunk.js",
+    "main.js.map": "/mdpatankar/ibmdemo.github.io/static/js/main.1000d147.chunk.js.map",
+    "runtime-main.js": "/mdpatankar/ibmdemo.github.io/static/js/runtime-main.12b3dfc7.js",
+    "runtime-main.js.map": "/mdpatankar/ibmdemo.github.io/static/js/runtime-main.12b3dfc7.js.map",
+    "static/js/2.d04a2d35.chunk.js": "/mdpatankar/ibmdemo.github.io/static/js/2.d04a2d35.chunk.js",
+    "static/js/2.d04a2d35.chunk.js.map": "/mdpatankar/ibmdemo.github.io/static/js/2.d04a2d35.chunk.js.map",
+    "index.html": "/mdpatankar/ibmdemo.github.io/index.html",
+    "precache-manifest.65f896dbdc07b8a19fcb8693c10a2a50.js": "/mdpatankar/ibmdemo.github.io/precache-manifest.65f896dbdc07b8a19fcb8693c10a2a50.js",
+    "service-worker.js": "/mdpatankar/ibmdemo.github.io/service-worker.js",
+    "static/css/main.a9521173.chunk.css.map": "/mdpatankar/ibmdemo.github.io/static/css/main.a9521173.chunk.css.map",
+    "static/js/2.d04a2d35.chunk.js.LICENSE.txt": "/mdpatankar/ibmdemo.github.io/static/js/2.d04a2d35.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mdpatankar/ibmdemo.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12b3dfc7.js",
+    "static/js/2.d04a2d35.chunk.js",
+    "static/css/main.a9521173.chunk.css",
+    "static/js/main.1000d147.chunk.js"
+  ]
+}
